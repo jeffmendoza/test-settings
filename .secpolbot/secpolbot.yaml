@@ -1,1 +1,2 @@
-optIn: true
+optConfig:
+  optOut: true
